@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Open HRM" verbose="4" thread-count="1" parallel="tests">
+    <test name="Login Page Test">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="myTest.loginTest"/>
+        </classes>
+    </test> <!-- Test -->
+    <!--    <test name="Home Page Test">-->
+    <!--        <parameter name="browser" value="chrome"/>-->
+    <!--        <classes>-->
+    <!--            <class name="mytests.HomePageTest"/>-->
+    <!--        </classes>-->
+    <!--    </test> &lt;!&ndash; Test &ndash;&gt;-->
+</suite> <!-- Suite -->
+
