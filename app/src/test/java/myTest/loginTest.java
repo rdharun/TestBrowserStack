@@ -6,8 +6,8 @@ import org.testng.annotations.Test;
 
 public class loginTest extends Base  {
 
-    @Test(dataProvider = "browser")
-    public void loginPageTitleTest(String browser){
+    @Test
+    public void loginPageTitleTest(){
         Assert.assertEquals(driver.getTitle(), "OrangeHRM");
     }
 }

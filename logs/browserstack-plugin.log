@@ -49,3 +49,25 @@
 12:12:36.160 [ApplicationImpl pooled thread 513] INFO  com.browserstack.utils.Helpers - /Users/testvagrant_1/.gradle/caches/modules-2/files-2.1/com.browserstack/browserstack-java-sdk/1.10.5/d9e8df95b568a5f1f106073dbb4366e62ec750dd/browserstack-java-sdk-1.10.5.jar
 12:12:36.160 [ApplicationImpl pooled thread 513] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/testvagrant_1/.gradle/caches/modules-2/files-2.1/com.browserstack/browserstack-java-sdk/1.10.5/d9e8df95b568a5f1f106073dbb4366e62ec750dd/browserstack-java-sdk-1.10.5.jar
 12:12:36.160 [ApplicationImpl pooled thread 513] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+12:17:26.775 [ApplicationImpl pooled thread 526] INFO  c.b.l.BrowserStackRunExtension - testng
+12:17:26.776 [ApplicationImpl pooled thread 526] INFO  com.browserstack.utils.Helpers - null
+12:17:26.778 [ApplicationImpl pooled thread 526] INFO  com.browserstack.utils.Helpers - /Users/testvagrant_1/.gradle/caches/modules-2/files-2.1/com.browserstack/browserstack-java-sdk/1.10.5/d9e8df95b568a5f1f106073dbb4366e62ec750dd/browserstack-java-sdk-1.10.5.jar
+12:17:26.778 [ApplicationImpl pooled thread 526] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/testvagrant_1/.gradle/caches/modules-2/files-2.1/com.browserstack/browserstack-java-sdk/1.10.5/d9e8df95b568a5f1f106073dbb4366e62ec750dd/browserstack-java-sdk-1.10.5.jar
+12:17:26.778 [ApplicationImpl pooled thread 526] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+12:25:42.069 [AWT-EventQueue-0] INFO  c.b.l.BrowserStackRunExtension - gradle
+12:25:42.071 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+12:26:24.951 [ApplicationImpl pooled thread 529] INFO  c.b.l.BrowserStackRunExtension - testng
+12:26:24.952 [ApplicationImpl pooled thread 529] INFO  com.browserstack.utils.Helpers - null
+12:26:24.955 [ApplicationImpl pooled thread 529] INFO  com.browserstack.utils.Helpers - /Users/testvagrant_1/.gradle/caches/modules-2/files-2.1/com.browserstack/browserstack-java-sdk/1.10.5/d9e8df95b568a5f1f106073dbb4366e62ec750dd/browserstack-java-sdk-1.10.5.jar
+12:26:24.955 [ApplicationImpl pooled thread 529] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/testvagrant_1/.gradle/caches/modules-2/files-2.1/com.browserstack/browserstack-java-sdk/1.10.5/d9e8df95b568a5f1f106073dbb4366e62ec750dd/browserstack-java-sdk-1.10.5.jar
+12:26:24.955 [ApplicationImpl pooled thread 529] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+12:29:46.531 [ApplicationImpl pooled thread 529] INFO  c.b.l.BrowserStackRunExtension - testng
+12:29:46.532 [ApplicationImpl pooled thread 529] INFO  com.browserstack.utils.Helpers - null
+12:29:46.533 [ApplicationImpl pooled thread 529] INFO  com.browserstack.utils.Helpers - /Users/testvagrant_1/.gradle/caches/modules-2/files-2.1/com.browserstack/browserstack-java-sdk/1.10.5/d9e8df95b568a5f1f106073dbb4366e62ec750dd/browserstack-java-sdk-1.10.5.jar
+12:29:46.533 [ApplicationImpl pooled thread 529] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/testvagrant_1/.gradle/caches/modules-2/files-2.1/com.browserstack/browserstack-java-sdk/1.10.5/d9e8df95b568a5f1f106073dbb4366e62ec750dd/browserstack-java-sdk-1.10.5.jar
+12:29:46.533 [ApplicationImpl pooled thread 529] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2
+12:39:07.394 [ApplicationImpl pooled thread 556] INFO  c.b.l.BrowserStackRunExtension - testng
+12:39:07.395 [ApplicationImpl pooled thread 556] INFO  com.browserstack.utils.Helpers - null
+12:39:07.399 [ApplicationImpl pooled thread 556] INFO  com.browserstack.utils.Helpers - /Users/testvagrant_1/.gradle/caches/modules-2/files-2.1/com.browserstack/browserstack-java-sdk/1.10.5/d9e8df95b568a5f1f106073dbb4366e62ec750dd/browserstack-java-sdk-1.10.5.jar
+12:39:07.399 [ApplicationImpl pooled thread 556] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/testvagrant_1/.gradle/caches/modules-2/files-2.1/com.browserstack/browserstack-java-sdk/1.10.5/d9e8df95b568a5f1f106073dbb4366e62ec750dd/browserstack-java-sdk-1.10.5.jar
+12:39:07.399 [ApplicationImpl pooled thread 556] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.2

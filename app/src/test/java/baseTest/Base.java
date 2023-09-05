@@ -14,19 +14,14 @@ public class Base {
     protected WebDriver driver;
 
 
-    @DataProvider(name = "browsers")
-    public Object[][] getBrowsers() {
-        return new Object[][] {
-                {"chrome"},
-                {"firefox"},
-                {"edge"}
-        };
-    }
 
+    @Parameters({"browser"})
     @BeforeTest
-    @DataProvider(name = "browsers")
-    public void setUp(String browserName) {
-        switch (browserName.toLowerCase()) {
+
+    public void setUp(){
+        String browserName = "chrome";
+
+        switch (browserName){
             case "chrome":
                 driver = new ChromeDriver();
                 break;
@@ -37,7 +32,7 @@ public class Base {
                 driver = new EdgeDriver();
                 break;
             default:
-                System.out.println("Please pass a valid browser name");
+                System.out.println("plz pass the right browser");
                 break;
         }
 
@@ -45,6 +40,7 @@ public class Base {
         driver.manage().window().maximize();
         driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
     }
+
 
     @AfterTest
     public void tearDown(){
